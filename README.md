@@ -7,16 +7,7 @@ I’m a full stack developer focused on building scalable, high-performance web 
 ### 🚀 Skills  
 | 💻 Hard Skills | 🤝 Soft Skills | 🛠️ Tools |  
 |--------------|--------------|-----------|  
-| - React.js , Tailwind CSS | - Team Collaboration  | - Git & GitHub |  
-|--------------|--------------|-----------|
-| - JavaScript | - Problem-Solving 
-| - Postman , Cloudinary , Shadcn , DaisyUI , Bootstrap
-|--------------|--------------|-----------|
-| - Strong Communication 
-| - Redux, ContextApi , RTK | - Leadership
-|--------------|--------------|-----------|
-| - Node.js, Express.js, Next.js  | - Adaptability  | - vsCode & Cursor & Github Co-Pilot
-|--------------|--------------|-----------|
+| - React.js , Tailwind CSS | - Team Collaboration  | - Git & GitHub | - JavaScript | - Problem-Solving | - Postman , Cloudinary , Shadcn , DaisyUI , Bootstrap | - Strong Communication | - Redux, ContextApi , RTK | - Leadership | - Node.js, Express.js, Next.js  | - Adaptability  | - vsCode & Cursor & Github Co-Pilot
 | - MongoDB | - Learner  | - Socket.io , JWT| 
 
 
