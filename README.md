@@ -8,12 +8,16 @@ I’m a full stack developer focused on building scalable, high-performance web 
 | 💻 Hard Skills | 🤝 Soft Skills | 🛠️ Tools |  
 |--------------|--------------|-----------|  
 | - React.js , Tailwind CSS | - Team Collaboration  | - Git & GitHub |  
+|--------------|--------------|-----------|
 | - JavaScript | - Problem-Solving 
 | - Postman , Cloudinary , Shadcn , DaisyUI , Bootstrap
+|--------------|--------------|-----------|
 | - Strong Communication 
 | - Redux, ContextApi , RTK | - Leadership
+|--------------|--------------|-----------|
 | - Node.js, Express.js, Next.js  | - Adaptability  | - vsCode & Cursor & Github Co-Pilot
-| - MongoDB, Socket.io , JWT , | 
+|--------------|--------------|-----------|
+| - MongoDB | - Learner  | - Socket.io , JWT| 
 
 
 
@@ -21,6 +25,6 @@ I’m a full stack developer focused on building scalable, high-performance web 
 ### Contact Me
 Gmail:Mohitkumar269856@gmail.com
 ###
-Mob No:9914722215
+Mob No:7973314287 
 ###
 
