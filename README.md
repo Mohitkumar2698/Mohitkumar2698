@@ -7,11 +7,13 @@ I’m a full stack developer focused on building scalable, high-performance web 
 ### 🚀 Skills  
 | 💻 Hard Skills | 🤝 Soft Skills | 🛠️ Tools |  
 |--------------|--------------|-----------|  
-| -, React.js , Tailwind CSS | - Team Collaboration  | - Git & GitHub |  
-| - C++, C++(Embedded), Bash, JavaScript | - Problem-Solving  | - Postman  |  
-| - Redux, Shadcn, DaisyUI , Bootstrap  | - Leadership
+| - React.js , Tailwind CSS | - Team Collaboration  | - Git & GitHub |  
+| - JavaScript | - Problem-Solving 
+| - Postman , Cloudinary , Shadcn , DaisyUI , Bootstrap
+| - Strong Communication 
+| - Redux, ContextApi , RTK | - Leadership
 | - Node.js, Express.js, Next.js  | - Adaptability  | - vsCode & Cursor & Github Co-Pilot
-| - MongoDB, Socket.io , Cloudinary , JWT , 
+| - MongoDB, Socket.io , JWT , | 
 
 
 
@@ -21,10 +23,4 @@ Gmail:Mohitkumar269856@gmail.com
 ###
 Mob No:9914722215
 ###
-LinkedIn:https://www.linkedin.com/in/mohit-kumar
 
-
-
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramankumar124&theme=algolia" alt="Profile Summary Card"/>
-</p>
