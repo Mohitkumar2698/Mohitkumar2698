@@ -9,25 +9,19 @@ I’m a full stack developer focused on building scalable, high-performance web 
 |--------------|--------------|-----------|  
 | -, React.js , Tailwind CSS | - Team Collaboration  | - Git & GitHub |  
 | - C++, C++(Embedded), Bash, JavaScript | - Problem-Solving  | - Postman  |  
-| - Redux, RTK Query, ShadCN UI, MUI, Radix UI, Bootstrap  | - Leadership   | - Docker  |  
-| -  GSAP, Scroll Trigger, Locomotive Scroll| - Communication   |  Arduino Ide , Arduino Cloud, Wokwi| | 
-| - Node.js, Express.js, Next.js  | - Adaptability  | - vsCode & Cursor & Replit |.
-| - MongoDB, PostgreSQL , SQl, Redis  |  |   
-| - Prisma ORM,Drizzle ORM, Firebase, JWT, PeerJs, MCP ,n8n  |   |   |  
-| - Socket.io, WebRTC,Oauth2,MQTT  |   |   |  
-| - Strong foundation in Data Structures & Algorithms  |   |   |  
-| - AWS (S3, EC2, CloudFront, Nginx)  |   |   |  
-| - Operating System linux (primary) ,Windows  |   |   |  
+| - Redux, Shadcn, DaisyUI , Bootstrap  | - Leadership
+| - Node.js, Express.js, Next.js  | - Adaptability  | - vsCode & Cursor & Github Co-Pilot
+| - MongoDB, Socket.io , Cloudinary , JWT , 
 
 
 
 
 ### Contact Me
-Gmail:241ramankumar@gmail.com
+Gmail:Mohitkumar269856@gmail.com
 ###
 Mob No:9914722215
 ###
-LinkedIn:https://www.linkedin.com/in/raman-kumar241
+LinkedIn:https://www.linkedin.com/in/mohit-kumar
 
 
 
