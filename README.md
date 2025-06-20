@@ -7,8 +7,8 @@ I’m a full stack developer focused on building scalable, high-performance web 
 ### 🚀 Skills  
 | 💻 Hard Skills | 🤝 Soft Skills | 🛠️ Tools |  
 |--------------|--------------|-----------|  
-| -, React.js, Next.js , Tailwind CSS | - Team Collaboration  | - Git & GitHub & GitLab  |  
-| - C++, C++(Embedded), Bash, JavaScript, TypeScript, Arduino, Esp32  | - Problem-Solving  | - Postman  |  
+| -, React.js , Tailwind CSS | - Team Collaboration  | - Git & GitHub |  
+| - C++, C++(Embedded), Bash, JavaScript | - Problem-Solving  | - Postman  |  
 | - Redux, RTK Query, ShadCN UI, MUI, Radix UI, Bootstrap  | - Leadership   | - Docker  |  
 | -  GSAP, Scroll Trigger, Locomotive Scroll| - Communication   |  Arduino Ide , Arduino Cloud, Wokwi| | 
 | - Node.js, Express.js, Next.js  | - Adaptability  | - vsCode & Cursor & Replit |.
