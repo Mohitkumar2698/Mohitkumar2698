@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to My GitHub Profile
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=9d00ff&size=24&width=500&lines=💻MERN+Stack+Devlopment,JavaScript+Development,Problem-Solving)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=9d00ff&size=24&width=500&lines=💻MERN+Stack+Devlopment)
 
 ## 🌟 About Me
 I’m a full stack developer focused on building scalable, high-performance web applications. I enjoy solving complex problems and creating smart, user-friendly solutions.
